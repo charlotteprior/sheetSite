@@ -4,6 +4,7 @@ body{
 }
 .col-6 {
     text-align: center;
+    padding:0; 
 
 }
 iframe{
@@ -13,7 +14,7 @@ iframe{
     overflow:hidden;
     border-radius: 10px;
     border: 3px solid rgb(211, 211, 211);
-    margin: 20px;
+    margin: 0px;
     box-shadow: 5px 5px 10px rgb(224, 224, 224);
 }
 
