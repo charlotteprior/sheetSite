@@ -7,7 +7,7 @@ body{
     padding:0; 
 
 }
-iframe{
+.squares{
     text-align: center;
     width: 150px;
     height:80px;
@@ -17,6 +17,7 @@ iframe{
     margin: 0px;
     box-shadow: 5px 5px 10px rgb(224, 224, 224);
 }
+
 
 .col-12{
     text-align: center;
