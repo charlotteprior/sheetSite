@@ -29,6 +29,7 @@ body{
 }
 #header{
         color: rgb(112, 68, 86);
+        font-size: larger;
 }
 h1{
     font-size: 30px;
